@@ -7,7 +7,5 @@ lemon
 mango 
 
 
-chicken 
-mutton 
-beef
+
 
